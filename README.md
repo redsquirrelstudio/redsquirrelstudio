@@ -1,6 +1,6 @@
 ### Hi there, I'm Lewis  
 ## <img width="25" align="left" src="http://lewisraggett.winchesterdigital.co.uk/img/logo.png"> The Developer behind [Red Squirrel Studio](https://redsquirrel.studio)
-I'm a front end web specialist who loves creating fast and adaptable components for sites with equally lightning performance.
+I'm a full stack javascript and php who loves creating fast and adaptable components for sites with equally lightning performance.
 
 ### 💡 Currently Learning
 <img width="30" align="left" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg">
