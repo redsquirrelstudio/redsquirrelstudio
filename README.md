@@ -3,8 +3,7 @@
 I'm a full stack javascript and php specialist  who loves creating fast and adaptable components for sites with equally lightning performance.
 
 ### 💡 Currently Learning
-<img width="30" align="left" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg">
-<img width="30" align="left" src="https://graphql.org/img/logo.svg"><br><br>
+<img width="30" align="left" src="https://devicon.dev/devicon.git/icons/react/react-original.svg"><br><br>
 
 ### 🧰 My main toolkit 
   
