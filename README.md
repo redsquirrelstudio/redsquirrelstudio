@@ -18,7 +18,8 @@ I'm a full stack javascript and php specialist who loves creating fast and adapt
 ### 🔧 Extra skills  
   
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img width="30" align="left" src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img width="28" align="left" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-vertical.svg">
 <img width="30" align="left" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
