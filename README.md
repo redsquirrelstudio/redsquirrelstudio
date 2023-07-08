@@ -4,6 +4,8 @@ Based in Bournemouth, I build lightning fast applications and websites for clien
 
 I started programming when I was 11 years old and have loved it ever since: starting with general purpose traditional languages like Python and C# and later going on to specialise in web languages so I could create a whole range of applications.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/redsquirrelstudio)
+
 ### 💡 Currently Learning
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
