@@ -33,6 +33,4 @@ I started programming when I was 11 years old and have loved it ever since: star
 
 ### 📞 You can reach me through
 
-[<img width="30" align="left" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=300"> @redsquirrelstudio](https://www.instagram.com/redsquirrelstudio/)  <br><br>
-[<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"> /redsquirrelstudi0](https://www.facebook.com/redsquirrelstudi0)  <br><br>
 [<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> /lewisraggett](https://www.linkedin.com/in/lewisraggett/)  <br><br>
