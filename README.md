@@ -6,9 +6,6 @@ I started programming when I was 11 years old and have loved it ever since: star
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/redsquirrelstudio)
 
-### 💡 Currently Learning
-<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
 <br><br>
 
 ### 🧰 My main toolkit 
