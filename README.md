@@ -1,5 +1,5 @@
 ### Hi there, I'm Lewis  
-## <img width="25" align="left" src="http://lewisraggett.winchesterdigital.co.uk/img/logo.png"> The Developer behind [Red Squirrel Studio](https://redsquirrel.studio)
+## <img width="25" align="left" src="http://lewisraggett.winchesterdigital.co.uk/img/logo.png"> The Developer behind [redsquirrel.dev](https://redsquirrel.dev)
 Based in Bournemouth, I build lightning fast applications and websites for clients of many walks of life. I'm at my happiest learning new technologies and applying them to create useful solutions to everyday hassles.
 
 I started programming when I was 11 years old and have loved it ever since: starting with general purpose traditional languages like Python and C# and later going on to specialise in web languages so I could create a whole range of applications.
